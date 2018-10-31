@@ -1,0 +1,137 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	background-color: lightgray;
+}
+
+body {
+	
+}	
+	
+
+.containt{
+	background-color: lightgray;
+	font-family: sans-serif;
+	width: 900px;
+	margin: auto;
+	padding: 10px;
+}
+
+.wrap {
+	width: 800px;
+	height: 750px;
+	background-color: tomato;
+	margin: auto;
+	border: 1px solid black;
+}
+
+.mahi {
+	
+	margin: 10px;
+	color: tomato;
+}
+
+header {
+	color: white;
+	height: 150px;
+	padding: 10px;
+}
+
+header h1 {
+	font-size: 60px;
+	font-weight: bold;
+	line-height: 50px;
+}
+
+header p {
+	font-size: 30px;
+	padding-top: 15px;
+}
+
+#left-side {
+	background-color: white;
+	height: 270px;
+	width: 550px;
+	display: inline-block;
+	padding: 10px;
+	text-align: left;
+}
+
+#left-side p {
+	color: black;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+	#left_side h1, h2{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-family: sens;
+}
+
+
+ a {
+	font-size: 14px;
+	font-family: sans;
+	letter-spacing: 1px;
+	color: tomato;
+	text-decoration: none;
+}
+
+ a:hover {
+	text-decoration: underline;
+}
+
+
+#right-side{
+	background-color: white;
+	height: 280px;
+	width: 200px;
+	float: right;
+	padding: 5px;
+}
+#right-side a:hover {
+	text-decoration: none;
+}
+#right-side a input {
+	border: 1px solid tomato;
+	border-radius: 50px; 
+	background-color: tomato;
+	color: white;
+	width: 185px;
+	height: 35px;
+	margin: 8px;
+	font-size: 16px;
+	display: block;
+	letter-spacing: 1px;
+}
+
+#right-side a input:hover {
+	background-color: white;
+	color: tomato;
+	cursor: pointer;
+}
+
+#Stylesheet2 {
+	background-color: white;
+	color: tomato;
+	font-weight: bold;
+}
+
+
+
+#side-bar {
+	background-color: lightpink;
+	height: 120px;
+	padding: 10px;
+}
+
+footer {
+	height: 120px;
+	color: white;
+	text-align: center;
+	font-size: 11px;
+	padding: 10px;
+	letter-spacing: 1px;
+	line-height: 18px;
+}
